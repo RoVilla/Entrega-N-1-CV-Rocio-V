@@ -1,0 +1,50 @@
+
+.perfil{
+  padding: 20px;
+}
+
+h1{
+  padding: 10px;
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Playfair Display', serif;
+
+}
+h3{
+  font-family: 'DM Serif Display', serif;
+  font-family: 'Playfair Display', serif;
+
+}
+.personal{
+  padding: 40px;
+}
+.bio{
+  padding: 40px;
+}
+.datos{
+  padding: 40px;
+}
+.exp{
+  padding: 40px;
+
+}
+.exp1{
+  padding: 30px;
+}
+.exp2{
+  padding: 30px;
+}
+.exp3{
+  padding: 30px;
+}
+.habi{
+  padding: 40px;
+}
+.contac{
+  padding: 40px;
+}
+.col-2{
+  padding: 20px;
+}
+.col-10{
+  padding: 20px;
+}
